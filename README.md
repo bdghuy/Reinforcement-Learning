@@ -1,5 +1,5 @@
 ## Reinforcement-Learning
-Improve [Softmax Deep Double Deterministic Policy Gradients](https://arxiv.org/abs/2010.09177) performance by [Evolution Strategy](https://arxiv.org/abs/1810.01222)
+### Improve [Softmax Deep Double Deterministic Policy Gradients](https://arxiv.org/abs/2010.09177) performance by [Evolution Strategy](https://arxiv.org/abs/1810.01222)
 
 This repository is based on the open-source [CEM-RL](https://github.com/apourchot/CEM-RL) codebase.
 
