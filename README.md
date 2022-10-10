@@ -9,7 +9,9 @@ This repository is based on the open-source [CEM-RL](https://github.com/apourcho
 
 To run the CEM-SD3 (single actor) algorithm in each single environment:
 ```
-python es_grad_sd.py --env <environment_name>
+python es_grad_sd.py --use_sd3 --env <environment_name>
 ```
 
 ### Experiments
+
+<img src="https://github.com/bdghuy/Reinforcement-Learning/blob/main/perf.PNG">
